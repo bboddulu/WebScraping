@@ -1,3 +1,22 @@
-For the Toronto neighborhood data, a Wikipedia page exists that has all the information .
-Project is to explore and cluster the neighborhoods in Toronto. For that I have to scrape the Wikipedia page and
+Project is to explore and cluster the neighborhoods in Toronto. For the Toronto neighborhood data, 
+a Wikipedia page exists that has all the information .For that I have to scrape the Wikipedia page and
 wrangle the data, clean it, and then read it into a pandas dataframe so that it is in a structured format like a dataset.
+Using API collected the required data.
+
+
+Business Problem:
+A person wants to open a restaurant in Toronto. He wants to find best place to open a restaurant.
+
+Approach:
+The Data about Toronto and its neighborhoods is obtained from Foursquare API.Using that data the neighborhoods are clustered 
+based on similarity.Some of the clusters are dedicated to shopping, restaurants and other businesses. 
+Using this cluster information neighborhoods satisfying required criteria are selected. Further analysis on these neighbor hoods
+will be done to recommend a place for starting a restaurant.
+
+
+
+
+Project is to explore and cluster the neighborhoods in Toronto. For the Toronto neighborhood data, 
+a Wikipedia page exists that has all the information .For that I have to scrape the Wikipedia page and
+wrangle the data, clean it, and then read it into a pandas dataframe so that it is in a structured format like a dataset.
+Using API collected the required data.
